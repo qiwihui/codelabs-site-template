@@ -1,0 +1,28 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-12-28T03:15:11Z",
+  "id": "unique-codelab-identifier",
+  "duration": 15,
+  "title": "Title of codelab",
+  "summary": "Summary of your codelab that is human readable",
+  "source": "markdowns/unique-codelab-identifier.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "java",
+    "spring"
+  ],
+  "tags": [
+    "iguide",
+    "web",
+    "workshop"
+  ],
+  "feedback": "A link where users can go to provide feedback (e.g. the git repo or issue page)",
+  "ga": "UA-XXXXXXX-01",
+  "url": "unique-codelab-identifier"
+}
